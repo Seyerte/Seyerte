@@ -12,7 +12,7 @@
  -->
  
 </a></div>
-<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" data-target="animated-image.originalLink"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1NTFmNzFjMjM2ODIwNzZlMGVjNjFmYzNjNWViMjFhMjI5NmRjNSZjdD1z/eMJXDJqSOVzQjFJ8Wv/giphy.gif" align="right" data-canonical-src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 240px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" data-target="animated-image.originalLink"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUxMjA4MjFjMzJjZWM2ZWY1Y2Y1YmZlN2E4NzRiZmUzODg1YjNhYSZjdD1z/9cghZPGI3DiSygM6j7/giphy.gif" align="right" data-canonical-src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
    
 ### Acerca de mí
 🌅 Recientemente he dado un giro de 180 grados a mi carrera profesional. Después de trabajar durante varios años en otro sector, he decidido dar un salto hacia la programación.
