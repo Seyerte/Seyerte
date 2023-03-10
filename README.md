@@ -53,13 +53,11 @@
 </a>  
 </div>  
   
-
 <br/>  
 
-
-</br>
+### 📊 GitHub Stats
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=Seyerte&theme=date-night&bg_color=00000000&)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyerte&layout=compact&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Seyerte&theme=onedark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyerte&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    
 
