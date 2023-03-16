@@ -42,7 +42,6 @@
 
 <br/>  
 
-
 ### ✉️ Contacto  
 <div align="">
 <a href="https://linkedin.com/in/seyerte" target="_blank">
