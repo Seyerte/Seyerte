@@ -17,7 +17,7 @@
 ### Acerca de mí 
 🌅 Recientemente he dado un giro de 180 grados a mi carrera profesional. Después de trabajar durante varios años en otro sector, he decidido dar un salto hacia la programación.
     </br>
-🌱 Actualmente estoy estudiando en un bootcamp Full-stack developer, aprendiendo cada día un poquito más en este mundo tan apasionante.
+🌱 
     
 ### 💻 Tecnologías 
 <div align=""> 
